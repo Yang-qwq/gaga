@@ -16,7 +16,6 @@
             latestVersion = lasteVersion;
         }
     </script>
-    <script src="https://duckchat.akaxin.com/static/checkVersion.js?_version=<?php echo $versionCode?>"></script>
 
 </head>
 <body>
