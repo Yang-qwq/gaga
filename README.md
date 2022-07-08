@@ -1,4 +1,2 @@
 # DuckChat
-Welcome to duckchat. I'm the official of duckchat.
-This is a GitHub repository, which contains the latest version of duckchat code. You can copy or use it for reference. 
-Have a good time using duckchat!
+源项目 [duckchat/gaga](https://github.com/duckchat/gaga) 已停止维护,[官网](https://duckchat.akaxin.com/)已停止运行,此为个人简改版本
